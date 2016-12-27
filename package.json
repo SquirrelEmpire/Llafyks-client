@@ -1,0 +1,17 @@
+{
+  "name": "llafyks",
+  "version": "1.0.0",
+  "description": "A chat client made by me :D",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron main.js"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Lord Squirrel",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.12"
+  }
+}
